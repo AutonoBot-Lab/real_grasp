@@ -29,30 +29,4 @@ We usually reply in 2 work days. If you do not receive the reply in 2 days, **pl
 
 ## Demo Code
 Now you can run your code that uses AnyGrasp SDK. See [grasp_detection](grasp_detection) and [grasp_tracking](grasp_tracking) for details.
-
-
-## Citation
-Please cite these papers in your publications if it helps your research:
-
-    @article{fang2023anygrasp,
-      title={AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains},
-      author = {Fang, Hao-Shu and Wang, Chenxi and Fang, Hongjie and Gou, Minghao and Liu, Jirong and Yan, Hengxu and Liu, Wenhai and Xie, Yichen and Lu, Cewu},
-      journal={IEEE Transactions on Robotics (T-RO)},
-      year={2023}
-    }
-    
-    @inproceedings{fang2020graspnet,
-      title={Graspnet-1billion: A large-scale benchmark for general object grasping},
-      author={Fang, Hao-Shu and Wang, Chenxi and Gou, Minghao and Lu, Cewu},
-      booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
-      pages={11444--11453},
-      year={2020}
-    }
-
-    @inproceedings{wang2021graspness,
-      title={Graspness discovery in clutters for fast and accurate grasp detection},
-      author={Wang, Chenxi and Fang, Hao-Shu and Gou, Minghao and Fang, Hongjie and Gao, Jin and Lu, Cewu},
-      booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-      pages={15964--15973},
-      year={2021}
-    }
+ 
